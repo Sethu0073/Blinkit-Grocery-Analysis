@@ -53,3 +53,35 @@ Visualize trends and relationships using line charts, bar graphs, and heatmaps.
 4. Insight Derivation:
 Identify patterns, trends, and anomalies in the data.
 Recommend actionable strategies based on findings.
+
+### Dashboards
+
+![Screenshot 2024-12-29 135217](https://github.com/user-attachments/assets/7d1e4ae8-e379-43b9-9164-c0101ce3bfcf)
+
+### Chart Requirements
+1.Total Sales by Fat Content: Analyze sales distribution by fat content levels.
+
+2.Total Sales by Item Type: Highlight sales performance across various product categories.
+
+3.Fat Content by Outlet for Total Sales: Correlate fat content levels with sales performance by outlet.
+
+4.Total Sales for Outlet Establishment Year: Understand sales trends based on outlet establishment years.
+
+5.Sales by Outlet Size: Assess how outlet size affects sales.
+
+6.Sales by Outlet Location: Compare sales performance across different locations.
+
+7.All Metrics by Outlet Type: Provide a comprehensive breakdown of all key metrics segmented by outlet type.
+
+### Installation and Usage
+1.Download the Excel analysis file from this repository.
+
+2.Open the file in Microsoft Excel (or a compatible software).
+
+3.Navigate through the sheets to explore the data and visualizations.
+
+### Contributing
+Contributions are welcome! If you have suggestions or improvements, please fork the repository, make your changes, and submit a pull request.
+
+
+
